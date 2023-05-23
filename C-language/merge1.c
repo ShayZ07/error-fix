@@ -17,7 +17,3 @@ scanf("%d", &n);
 	}
 	return 0;
 }
-
-int fact(int n){
-
-}
